@@ -2,15 +2,9 @@
   "streams": [
     {
       "title": "My stream",
-      "description": "testing",
+      "description": "First stream!",
       "userId": "105762149446123962535",
       "id": 1
-    },
-    {
-      "title": "pokemon",
-      "description": "pikachu",
-      "userId": "105762149446123962535",
-      "id": 2
     }
   ]
 }

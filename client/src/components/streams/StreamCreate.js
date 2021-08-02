@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Field, reduxForm } from "redux-form";
 import { createStream } from "../../actions";
 import { connect } from "react-redux";
 import StreamForm from "./StreamForm";
